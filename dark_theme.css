@@ -1,20 +1,20 @@
-body{
-  background-color:#212121;
-  font-family:Tahoma, sans-serif;
+.title{
+  color: white;
+  text-shadow: 2px 2px;
 }
 .div1{
-  background-color:#3b3b3b;
+  background-color: #3b3b3b;
   border: 2px;
 }
 .div2{
-  background-color:#5e5e5e;
+  background-color: #5e5e5e;
   border: 2px;
   border-radius: 5px;
 }
 .button1{
-  background-color:#000000;
+  background-color: #000000;
   border: none;
-  border-radius:15px;
+  border-radius: 15px;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -22,25 +22,35 @@ body{
   display: inline-block;
   font-size: 16px;
 }
+.link1{
+  text-decoration: none;
+  color: #0059ff;
+  hover: ##0026ff;
+}
 .column1 {
   column-count: 3;
   column-gap: 40px;
 }
+body{
+  background-image: url("background.png");
+  font-family: Tahoma, sans-serif;
+}
 h1{
-  color:white;
+  color: white;
 }
 h2{
-  color:white;
+  color: white;
 }
 h3{
-  color:white;
+  color: white;
 }
 h4{
-  color:white;
+  color: white;
 }
 h5{
-  color:white;
+  color: white;
 }
 h6{
-  color:white;
+  color: white;
 }
+
