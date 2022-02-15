@@ -1,6 +1,3 @@
 function buttonclick1(){
-  alert("not avaliable")
-}
-function buttonclick2(){
-  alert("this function is not avaliable")
+  alert("this download is not avaliable at this time.")
 }
