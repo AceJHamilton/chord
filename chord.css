@@ -3,6 +3,9 @@
   text-shadow: 2px 2px;
 }
 .div1{
+  width: 50%;
+  align: center;
+  text-align: left;
   background-color: #3b3b3b;
   border: 2px;
 }
