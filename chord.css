@@ -1,59 +1,40 @@
 .title{
-  color: white;
-  text-shadow: 2px 2px;
+     text-shadow: 2px 2px;
 }
-.div1{
-  width: 50%;
-  align: center;
-  text-align: left;
-  background-color: #c9c9c9;
-  border: 2px;
+ .div1{
+     text-align: left;
+     border: 2px;
+     border-radius: 25px;
+     justify-content: center;
+     background-color: #c9c9c9;
+     width: 50%;
 }
-.div2{
-  background-color: #5e5e5e;
-  border: 2px;
-  border-radius: 5px;
+ .div2{
+     background-color: #5e5e5e;
+     border: 2px;
+     border-radius: 5px;
 }
-.button1{
-  background-color: #000000;
-  border: none;
-  border-radius: 15px;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+ .button1{
+     background-color: #000000;
+     border: none;
+     border-radius: 15px;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
 }
-.link1{
-  text-decoration: none;
-  color: #0059ff;
-  hover: ##0026ff;
+ .link1{
+     text-decoration: none;
+     color: #0059ff;
+     hover: #0026ff;
 }
-.column1 {
-  column-count: 3;
-  column-gap: 40px;
+ .column1 {
+     column-count: 3;
+     column-gap: 40px;
 }
-body{
-  background-image: url("background.png");
-  font-family: Tahoma, sans-serif;
+ body{
+     background-image: url("background.png");
+     font-family: Tahoma, sans-serif;
 }
-h1{
-  color: white;
-}
-h2{
-  color: white;
-}
-h3{
-  color: white;
-}
-h4{
-  color: white;
-}
-h5{
-  color: white;
-}
-h6{
-  color: white;
-}
-
